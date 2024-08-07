@@ -1,0 +1,5 @@
+/* Basic styling to make the elements look presentable */
+body { font-family: sans-serif; }
+label { display: block; margin-bottom: 5px; }
+input { width: 100px; padding: 5px; margin-bottom: 10px; }
+#status { margin-top: 10px; }
